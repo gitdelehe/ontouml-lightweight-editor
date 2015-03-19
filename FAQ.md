@@ -1,0 +1,3 @@
+1. Why there is no Derivation relationship in the OntoUML plugin for Enterprise Architect (EA)?
+
+Answer: Cooming soon...
